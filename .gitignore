@@ -10,7 +10,6 @@ Frontend/
 Frontend/node_modules
 Frontend/dist
 Frontend/dist-ssr
-Frontend/*.local
 Frontend/# Editor directories and files
 Frontend/.vscode/*
 Frontend/!.vscode/extensions.json
