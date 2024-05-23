@@ -20,7 +20,7 @@ export default function DetailCard(props){
                 Description: {props.description}<br></br>
                 Contact Way : {props.contactway}<br></br>
                 Contact : {props.contact}<br></br>
-                {(props.casestatus)?`Case Status :${props.casestatus}<br></br>`:""}
+                {(props.casestatus)?`Case Status :${props.casestatus}`:""}
               </span>
             </div>
           </div>
